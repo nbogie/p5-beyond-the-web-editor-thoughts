@@ -12,7 +12,7 @@ Beyond those two, I've assumed we're also be interested in how the developer exp
 
 ### Mindmap
 
-This is just markdown and is probably better read as such, [in the raw view, here](https://gist.githubusercontent.com/nbogie/53b6ea985ec7c8068b03d9f9347999df/raw/3e3219a309df81a6c9b68c7e6ac3343d2a81a453/p5-beyond-web-editor-ideas-neill.md).
+This is just markdown and is probably better read as such, [in the raw view, here](https://raw.githubusercontent.com/nbogie/p5-beyond-the-web-editor-thoughts/main/README.md).
 
 ```mermaid
 %%{init: {'theme': 'default'}}%%
@@ -90,7 +90,7 @@ mindmap
 
 ## Notes:
 
--   [Please view this markdown file as raw source](https://gist.githubusercontent.com/nbogie/53b6ea985ec7c8068b03d9f9347999df/raw/3e3219a309df81a6c9b68c7e6ac3343d2a81a453/p5-beyond-web-editor-ideas-neill.md) if you want to avoid the mindmap diagram, which I suspect is completely unreadable.
+-   [Please view this markdown file as raw source](https://raw.githubusercontent.com/nbogie/p5-beyond-the-web-editor-thoughts/main/README.md) if you want to avoid the mindmap diagram, which I suspect is completely unreadable.
 
 -   I appreciate many of these are likely out of scope / don't strictly fit the category.  I intentionally didn't try to filter too hard for now - a "green hat" exercise.  Similarly, quite a few _might_ be legit but low priority, but thinking first about the superset of what might be wanted helps me, at least, to understand.
 

@@ -12,7 +12,7 @@ Beyond those two, I've assumed we're also be interested in how the developer exp
 
 ### Mindmap
 
-This is just markdown and is probably better read as such, [in the raw view, here](https://raw.githubusercontent.com/nbogie/p5-beyond-the-web-editor-thoughts/main/README.md).
+This is just markdown and is probably better read as such, [in the raw view, here](https://raw.githubusercontent.com/nbogie/p5-beyond-the-web-editor-neill/main/docs/initial-thoughts.md).
 
 ```mermaid
 %%{init: {'theme': 'default'}}%%
@@ -90,7 +90,7 @@ mindmap
 
 ## Notes:
 
--   [Please view this markdown file as raw source](https://raw.githubusercontent.com/nbogie/p5-beyond-the-web-editor-thoughts/main/README.md) if you want to avoid the mindmap diagram, which I suspect is completely unreadable.
+-   [Please view this markdown file as raw source](https://raw.githubusercontent.com/nbogie/p5-beyond-the-web-editor-neill/main/docs/initial-thoughts.md) if you want to avoid the mindmap diagram, which I suspect is completely unreadable.
 
 -   I appreciate many of these are likely out of scope / don't strictly fit the category.  I intentionally didn't try to filter too hard for now - a "green hat" exercise.  Similarly, quite a few _might_ be legit but low priority, but thinking first about the superset of what might be wanted helps me, at least, to understand.
 
@@ -110,4 +110,4 @@ mindmap
 -   the syntax doesn't like items that include parentheses.
 -   default theme doesn't seem to play well with chrome dark mode.
 -   Yes, the mindmap diagram isn't effective at all with this many verbose bullets.
--  [The interpreted view of this file on gh](https://github.com/nbogie/p5-beyond-the-web-editor-thoughts/blob/main/README.md)
+-  [The interpreted view of this file on github will render the diagram](https://github.com/nbogie/p5-beyond-the-web-editor-neill/blob/main/docs/initial-thoughts.md)

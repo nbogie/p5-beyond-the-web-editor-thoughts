@@ -110,3 +110,4 @@ mindmap
 -   the syntax doesn't like items that include parentheses.
 -   default theme doesn't seem to play well with chrome dark mode.
 -   Yes, the mindmap diagram isn't effective at all with this many verbose bullets.
+-  [The interpreted view of this file on gh](https://github.com/nbogie/p5-beyond-the-web-editor-thoughts/blob/main/README.md)

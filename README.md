@@ -45,8 +45,11 @@ mindmap
       optional extras
         misc vscode: goto def, view call hierarchy, etc.
         linting, formatting, unit-testing
+        github copilot, etc
         debugging in chrome
-        contributing to p5
+          _your_ sketch (🐻)
+          p5 source
+        towards contributing to p5
     Reusing your code
       reusing functions across files 🐻
       making a library
@@ -85,16 +88,17 @@ mindmap
 
 -   Please view this markdown file as raw source if you want to avoid the mindmap diagram.
 
--   I appreciate many of these are out of scope / don't strictly fit the category. I intentionally didn't try to filter too hard. I know tutorials exist on various of them, already.
+-   I appreciate many of these are likely out of scope / don't strictly fit the category, and I know tutorials exist on various /all of them, already, somewhere.  I intentionally didn't try to filter too hard for now - a "green hat" exercise.
 
--   🐻 (bear emoji) represents that I know the topic is Possible In the Web Editor. This _might_ just be a dismissal of this topic suggestion if it's out-of-scope for that reason. However, the line for the reader might not be as clear, and some of these topics they might reasonably hope to find grouped alongside many of the legit topics in this "beyond" section. Perhaps we could at least signpost for them from here, if we think they're out of scope, rather than not list the topic.
+-   🐻 (bear emoji) represents that I know the topic is Possible In the Web Editor. This _might_ just be a dismissal of this topic suggestion if it's out-of-scope for that reason. However, the line for the reader might not be as clear, and some of these topics they might reasonably hope to find grouped alongside many of the legit topics in this "beyond" section. It might be useful to at least index the topic, signposting for them to the other resource(s), rather than not list the topic at all here among its perceived siblings.
 
-## Lenses:
+## Some ;enses for thinking about the subject:
 
--   "what other developer experience is there outside of the web editor?"
+-   "what improved developer experience is available outside of the web editor?"
 -   "what features can I unlock by going outside of the web editor?"
 -   "how else can my sketches be consumed outside of the web editor?"
 -   "what different audience experiences can be created outside of the web editor?"
+-   "What new problems/responsibilities do I have now my code's not in the web editor?" (e.g. backups, hosting, ...?)
 
 ## Diagramming Notes:
 

@@ -92,7 +92,7 @@ mindmap
 
 -   [Please view this markdown file as raw source](https://gist.githubusercontent.com/nbogie/53b6ea985ec7c8068b03d9f9347999df/raw/3e3219a309df81a6c9b68c7e6ac3343d2a81a453/p5-beyond-web-editor-ideas-neill.md) if you want to avoid the mindmap diagram, which I suspect is completely unreadable.
 
--   I appreciate many of these are likely out of scope / don't strictly fit the category, and I know tutorials exist on various /all of them, already, somewhere.  I intentionally didn't try to filter too hard for now - a "green hat" exercise.
+-   I appreciate many of these are likely out of scope / don't strictly fit the category.  I intentionally didn't try to filter too hard for now - a "green hat" exercise.  Similarly, quite a few _might_ be legit but low priority, but thinking first about the superset of what might be wanted helps me, at least, to understand.
 
 -   🐻 (bear emoji) represents that I know the topic is Possible In the Web Editor. This _might_ just be a dismissal of this topic suggestion if it's out-of-scope for that reason. However, the line for the learner might not be as clear, and some of these topics they might reasonably hope to find grouped alongside many of the legit topics in this "beyond" section. It might be useful to at least index the topic, signposting for them to the other resource(s), rather than not list the topic at all here among its perceived siblings.
 

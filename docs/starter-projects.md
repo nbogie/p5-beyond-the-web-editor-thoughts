@@ -48,8 +48,7 @@ Some of the old ones are only listed here as a convenient reference for me, in c
     -   uses parcel 2 bundler
 -   ⭐️ NEW 2️⃣: p5 v2 ts 🌍 global-mode, vite-based, 2025: https://github.com/nbogie/p5-v2-ts-global-mode-starter
     -   vite
-    -   intended for degit but optional
-    -   https://github.com/nbogie/p5-v2-ts-global-mode-starter
+    -   intended for degit but optional: `npx degit nbogie/p5-v2-ts-global-mode-starter`
 
 
 ## Related

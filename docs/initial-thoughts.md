@@ -96,6 +96,9 @@ mindmap
 
 -   🐻 (bear emoji) represents that I know the topic is Possible In the Web Editor. This _might_ just be a dismissal of this topic suggestion if it's out-of-scope for that reason. However, the line for the learner might not be as clear, and some of these topics they might reasonably hope to find grouped alongside many of the legit topics in this "beyond" section. It might be useful to at least index the topic, signposting for them to the other resource(s), rather than not list the topic at all here among its perceived siblings.
 
+## Links to some starters
+I've started to gather links to my [old and new starter projects - docs/starter-projects.md](./starter-projects.md).
+
 ## Some lenses for thinking about the subject:
 
 -   "what improved developer experience is available outside of the web editor?"

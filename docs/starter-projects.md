@@ -2,13 +2,12 @@
 
 These are just for my reference while i work on updated ones, in case I left some useful advice in there...
 
-### JavaScript with type-checking
+### JavaScript: with type-checking
 * p5 v1 global-mode starter w type-checking (2023): https://github.com/WeAreAcademy/p5js-js-global-mode-starter
   * type-checking and intellisense
   * no node, no bundler, suggests live server but whatever.
-  
-  
-### sketch-as-ESM
+ 
+### JavaScript: sketch-as-ESM
 * sketch-as-ESM example at openprocessing: https://openprocessing.org/sketch/2784559
 
 ### TypeScript
@@ -24,5 +23,7 @@ These are just for my reference while i work on updated ones, in case I left som
     * vscode tasks, github workflows
     * etc
 
-## New starters / templates (mostly WIP)
+## New starters / templates (WIP)
 * p5 v2 ts global-mode, vite-based, 2025:  https://github.com/nbogie/p5-v2-ts-global-mode-template-WIP
+    * vite
+    * intended for degit but optional

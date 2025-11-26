@@ -1,4 +1,9 @@
-# what?
-For now I've only [initial thoughts](./docs/initial-thoughts.md) here, but I'll probably group my wip type-checking example projects (js / ts) in here, too.
+## Initial thoughts
 
+ [initial thoughts](./docs/initial-thoughts.md) here
 
+## my p5 template / starter projects
+
+This is currently just a list of my old templates.  I will start to add new ones there.
+
+[starter projects](./docs/starter-projects.md)

@@ -1,4 +1,4 @@
-## (my) starter / template projects
+## (my) starter / template projects for p5.js
 
 First of all, if you're here from a random search, there are almost certainly better starter projects out there.
 

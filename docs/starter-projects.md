@@ -1,8 +1,11 @@
-## (my) starter / template projects for p5.js
+# (my) starter / template projects for p5.js
 
 First of all, if you're here from a random search, there are almost certainly better starter projects out there.
 
-This is mostly a list of my old starter projects, which I'm gathering here just for my reference while i work on updated ones, in case I left some useful wisdom in there for my students or for my future self ;)
+This is a mix of my old and new starter projects, some of which are under construction.  
+Some of the old ones are only listed here as a convenient reference for me, in case I left some useful wisdom in there for my students or for my future self ;)
+
+## JavaScript Projects
 
 ### JavaScript: with type-checking
 
@@ -16,25 +19,27 @@ This is mostly a list of my old starter projects, which I'm gathering here just 
     -   intended for vscode
     -   type-checking, intellisense
     -   no node.js or command-line required
-    -   includes the types files in the repo - not ideal
+    -   not ideal: includes the (big) types files in the repo and requires they be updated manually on p5 version update.
     -   `npx degit nbogie/p5-v2-js-typechecked-global-mode-starter my-awesome-p5-project`
+    -   could be improved by having up-to-date p5 types in definitely-typed for the remote type-aquisition mechanism.
 
 -   ⭐️ NEW 2️⃣: p5 v2 🌍 global-mode *JavaScript* starter with type-checking - **node-required** (2025): https://github.com/nbogie/p5-v2-js-typechecked-global-mode-with-node-starter
-    -   WIP
     -   intended for vscode
     -   type-checking, intellisense
-    -   requires node.js for downloading p5 - for the types, only
+    -   not ideal: requires node.js for downloading p5 - for the types, only
+    -   would be rendered unnecessary by having up-to-date p5 types in definitely-typed for the remote type-aquisition mechanism with its sibling starter.
     -   `npx degit nbogie/p5-v2-js-typechecked-global-mode-with-node-starter my-awesome-p5-project`
 
 -   OLD 1️⃣: p5 v1 🌍 global-mode *JavaScript* starter w type-checking (2023): https://github.com/WeAreAcademy/p5js-js-global-mode-starter
     -   type-checking and intellisense
     -   no node, no bundler, suggests live server but whatever.
 
+
 ### JavaScript: sketch-as-ESM
 
 -   ⭐️ NEW 1️⃣: sketch-as-ESM p5 v1 🌍 global-mode ESM commented example at openprocessing: https://openprocessing.org/sketch/2784559
 
-### TypeScript
+## TypeScript Projects
 
 -   OLD 1️⃣: ts 🌍 global-mode starter for p5 v1: https://github.com/WeAreAcademy/academy-p5js-ts-global-mode-starter
     -   uses browser-sync, modified from https://github.com/Gaweph/p5-typescript-starter

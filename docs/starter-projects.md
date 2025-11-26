@@ -6,12 +6,27 @@ This is mostly a list of my old starter projects, which I'm gathering here just 
 
 ### JavaScript: with type-checking
 
--   ⭐️ NEW 1️⃣: p5 v1 🌍 global-mode starter with type-checking (2025): https://github.com/nbogie/p5-v1-js-typechecked-global-mode-starter
-
+-   ⭐️ NEW 1️⃣: p5 v1 🌍 global-mode *JavaScript* starter with type-checking (2025): https://github.com/nbogie/p5-v1-js-typechecked-global-mode-starter
+    -   intended for vscode
     -   type-checking, intellisense, explanation of files
     -   `npx degit nbogie/p5-v1-js-typechecked-global-mode-starter my-awesome-p5-project`
+    -   no node.js or command-line required
 
--   OLD 1️⃣: p5 v1 🌍 global-mode starter w type-checking (2023): https://github.com/WeAreAcademy/p5js-js-global-mode-starter
+-   ⭐️ NEW 2️⃣: p5 v2 🌍 global-mode *JavaScript* starter with type-checking **no-node-needed** (2025): https://github.com/nbogie/p5-v2-js-typechecked-global-mode-starter
+    -   intended for vscode
+    -   type-checking, intellisense
+    -   no node.js or command-line required
+    -   includes the types files in the repo - not ideal
+    -   `npx degit nbogie/p5-v2-js-typechecked-global-mode-starter my-awesome-p5-project`
+
+-   ⭐️ NEW 2️⃣: p5 v2 🌍 global-mode *JavaScript* starter with type-checking - **node-required** (2025): https://github.com/nbogie/p5-v2-js-typechecked-global-mode-with-node-starter
+    -   WIP
+    -   intended for vscode
+    -   type-checking, intellisense
+    -   requires node.js for downloading p5 - for the types, only
+    -   `npx degit nbogie/p5-v2-js-typechecked-global-mode-with-node-starter my-awesome-p5-project`
+
+-   OLD 1️⃣: p5 v1 🌍 global-mode *JavaScript* starter w type-checking (2023): https://github.com/WeAreAcademy/p5js-js-global-mode-starter
     -   type-checking and intellisense
     -   no node, no bundler, suggests live server but whatever.
 

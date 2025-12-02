@@ -1,6 +1,6 @@
 
 
-Here's the 60+ element tree you get when you start to load the global.d.ts and then index.d.ts from definitely typed.
+Here's the 60+ file tree you get when you start to load the global.d.ts and then index.d.ts from definitely typed.
 
 ```mermaid
 flowchart LR

@@ -10,3 +10,4 @@ This is currently just a list of my old templates.  I will start to add new ones
 
 ## on types for p5 v1.x projects
 
+[on-v1-types.md](./docs/on-v1-types.md)

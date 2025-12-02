@@ -1,10 +1,11 @@
 # (my) starter / template projects for p5.js
 
-First of all, if you're here from a random search, there are almost certainly better starter projects out there.
+This is a list mostly for myself, of my old and new p5 starter projects, some of which are under construction.
 
-This is a list mostly for myself, of my old and new starter projects, some of which are under construction.  
-
-Some of the old ones are only listed here as a convenient reference for me, in case I left some useful wisdom in there for my students or for my future self ;)
+Almost all of these incorporate *type-checking* and *intelli-sense* for your code.  
+* With type-checking you get much more help finding bugs quickly.  
+* With intelli-sense you get auto-completion of p5 function and variable names as well as inline documentation for those.  
+* Any project that includes "type-checking" in its title also includes this intelli-sense.
 
 ## JavaScript Projects
 

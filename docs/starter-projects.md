@@ -14,7 +14,13 @@ Some of the old ones are only listed here as a convenient reference for me, in c
     -   intended for vscode
     -   type-checking, intellisense, explanation of files
     -   `npx degit nbogie/p5-v1-js-typechecked-global-mode-starter my-awesome-p5-project`
-    -   no node.js or command-line required
+    -   requires node.js be installed, for vscode to acquire the p5 types automatically.
+
+-   ⭐️ NEW 1️⃣: p5 v1 🌍 global-mode *JavaScript* starter with type-checking (alternative using npm) (2025): https://github.com/nbogie/p5-v1-js-typechecked-global-mode-local-types-starter
+    -   intended for vscode
+    -   type-checking, intellisense, explanation of files
+    -   `npx degit nbogie/p5-v1-js-typechecked-global-mode-local-types-starter my-awesome-p5-project`
+    -   requires node.js be installed and simple use of `npm install` on the command-line to install the p5 types.
 
 -   ⭐️ NEW 2️⃣: p5 v2 🌍 global-mode *JavaScript* starter with type-checking **no-node-needed** (2025): https://github.com/nbogie/p5-v2-js-typechecked-global-mode-starter
     -   intended for vscode
